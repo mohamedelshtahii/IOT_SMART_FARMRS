@@ -1,6 +1,13 @@
 🌾 Smart Farming System (AIoT)
 
+🔗 **Live Dashboard:**  
+https://sage-brigadeiros-390005.netlify.app/
+
+
+
+
 <img width="1429" height="803" alt="Screenshot 2026-03-22 054927" src="https://github.com/user-attachments/assets/90852f1c-4834-4de6-aaaf-e03b6350dea1" />
+
 
 
 ESP32 • Sensors • Firmware • Cloud • Dashboard
