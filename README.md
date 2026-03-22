@@ -89,6 +89,8 @@ Sends readings to dashboard/cloud
 
 ⚙️ Firmware Layer (Logic Summary)
 
+<img width="1455" height="816" alt="Screenshot 2026-03-22 054822" src="https://github.com/user-attachments/assets/1bb4001b-08a1-4d6f-b8db-c43a966dd273" />
+
 No firmware code placed here — but logic fully described.
 
 Irrigation Logic
